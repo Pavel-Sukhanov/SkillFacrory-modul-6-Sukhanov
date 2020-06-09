@@ -1,0 +1,13 @@
+body {
+    margin: 20px
+}
+
+.button-gr {
+    margin-top: 20px;
+}
+
+.btn2,
+.btn3,
+.btn4          {
+    margin-left: 20px;
+}
